@@ -1,6 +1,6 @@
 /*
  * Trabalho II - Sistemas Operacionais - 2015.2
- * Por: Genicleito Carvalho Beltrão Gonçalves (213105012)
+ * Por: Genicleito Carvalho Beltrão Gonçalves
  * Renomear vários arquivos
  * */
 

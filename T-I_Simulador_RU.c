@@ -1,6 +1,6 @@
 /*		Trabalho I - Sistemas Operacionais - 2015.2
 	Simulador de Restaurante Universitário com conceitos de Processos/Threads
-		Por: Genicleito Carvalho Beltrão Gonçalves (213105012)
+		Por: Genicleito Carvalho Beltrão Gonçalves
 */
 
 #include <stdlib.h>
